@@ -5,7 +5,7 @@ import { faSearch } from "@fortawesome/free-solid-svg-icons";
 
 const Navbar = () => {
   const menuList = [
-    "여성",
+    "여성복",
     "dived",
     "남성",
     "신생아/유아",
